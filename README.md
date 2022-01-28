@@ -1,1 +1,3 @@
 # jenkinsTest
+
+Prva upravas
