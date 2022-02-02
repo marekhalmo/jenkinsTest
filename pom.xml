@@ -9,6 +9,7 @@
 	<properties>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
+		<mvn.clean.plugin.version>3.1.0</mvn.clean.plugin.version>
 	</properties>
 
 	<build>
